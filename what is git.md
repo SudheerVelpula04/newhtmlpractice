@@ -28,7 +28,7 @@ GitHub provides a way to track and manage issues or bug reports for projects. De
 # Wikis and Documentation: 
 Repositories can have wikis to host project documentation, guides, and other useful information.
 # GitHub Actions:
-    GitHub Actions is an integrated continuous integration and continuous deployment (CI/CD) service that allows developers to automate various workflows, such as running tests, building and deploying applications, and more.
+GitHub Actions is an integrated continuous integration and continuous deployment (CI/CD) service that allows developers to automate various workflows, such as running tests, building and deploying applications, and more.
 # Security Features:
 GitHub has built-in security features to help identify vulnerabilities in code and dependencies, and it supports code scanning and alerts.
 # Community and Open Source: 
